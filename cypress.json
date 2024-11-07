@@ -1,0 +1,10 @@
+{
+	"chromeWebSecurity": false,
+	"env": {
+		"endpoint": "https://www.google.com",
+	    "web": {
+	    	"search": "zeno yu"
+		}
+  	},
+	"video": true
+}

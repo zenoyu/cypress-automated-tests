@@ -12,8 +12,9 @@ npm install
 root
   - cypress.json: all the environment variables
   + cypress
-    + integration
+    + e2e
       + google: (Your company namespace) All the spec test cases
+        search.cy.js
 
 Note: You can rename the folder <google> with your company namespace
 
